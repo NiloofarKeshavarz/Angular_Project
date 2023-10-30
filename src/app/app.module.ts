@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { CoursesComponent } from './courses.component';
 
 @NgModule({
-  declarations: [
+  declarations: [ // where we add the components related to a module
     AppComponent,
     CoursesComponent
   ],
